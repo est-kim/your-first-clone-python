@@ -6,4 +6,4 @@ This is just a project to clone to make sure Git is properly working.
 
 Adding more stuff
 
-Kennedy was here.
+Kennedy was here. hello hello!
